@@ -1,0 +1,22 @@
+{
+  "leetcode": {
+    "easy": 0,
+    "medium": 1,
+    "hard": 0,
+    "shas": {
+      "0080-remove-duplicates-from-sorted-array-ii": {
+        "difficulty": "medium",
+        "README.md": "adfc9f888ce54024f71175b3ad6eb0f71d9b9dcb",
+        "0080-remove-duplicates-from-sorted-array-ii.java": "4c27ab93a3ed5c421acca0761d65f54b226334ac"
+      },
+      "README.md": {
+        "": "fae2fe3e6f9ba1353243e42fca8f1802365b0af4"
+      }
+    },
+    "solved": 1
+  },
+  "topicCounts": {
+    "Array": 1,
+    "Two Pointers": 1
+  }
+}
