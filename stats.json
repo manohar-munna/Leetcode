@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "shas": {
@@ -10,13 +10,22 @@
         "0080-remove-duplicates-from-sorted-array-ii.java": "4c27ab93a3ed5c421acca0761d65f54b226334ac"
       },
       "README.md": {
-        "": "fae2fe3e6f9ba1353243e42fca8f1802365b0af4"
+        "": "5ed95515fd3c29bbcd1a2b68f78bdc650a6f8868"
+      },
+      "1684-count-the-number-of-consistent-strings": {
+        "difficulty": "easy",
+        "README.md": "3df108d5ee51aacf8db8b6a24c1968499b3dfd15",
+        "1684-count-the-number-of-consistent-strings.java": "3229f5b1130cf88f0c2aca1b163957551d03ac1a"
       }
     },
-    "solved": 1
+    "solved": 2
   },
   "topicCounts": {
-    "Array": 1,
-    "Two Pointers": 1
+    "Array": 2,
+    "Two Pointers": 1,
+    "Hash Table": 1,
+    "String": 1,
+    "Bit Manipulation": 1,
+    "Counting": 1
   }
 }
