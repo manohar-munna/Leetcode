@@ -1,7 +1,7 @@
 {
   "leetcode": {
     "easy": 1,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "shas": {
       "0080-remove-duplicates-from-sorted-array-ii": {
@@ -10,22 +10,29 @@
         "0080-remove-duplicates-from-sorted-array-ii.java": "4c27ab93a3ed5c421acca0761d65f54b226334ac"
       },
       "README.md": {
-        "": "5ed95515fd3c29bbcd1a2b68f78bdc650a6f8868"
+        "": "27c271872a70283ca49e0bbb7df6c25ee197a050"
       },
       "1684-count-the-number-of-consistent-strings": {
         "difficulty": "easy",
         "README.md": "3df108d5ee51aacf8db8b6a24c1968499b3dfd15",
         "1684-count-the-number-of-consistent-strings.java": "3229f5b1130cf88f0c2aca1b163957551d03ac1a"
+      },
+      "3016-minimum-number-of-pushes-to-type-word-ii": {
+        "difficulty": "medium",
+        "README.md": "71cac1ec5d9d071eb0cddc0043449ecf2e3504b9",
+        "3016-minimum-number-of-pushes-to-type-word-ii.java": "5720fbed456cf8a1d4c3aea0902d2068f32346ab"
       }
     },
-    "solved": 2
+    "solved": 3
   },
   "topicCounts": {
     "Array": 2,
     "Two Pointers": 1,
-    "Hash Table": 1,
-    "String": 1,
+    "Hash Table": 2,
+    "String": 2,
     "Bit Manipulation": 1,
-    "Counting": 1
+    "Counting": 2,
+    "Greedy": 1,
+    "Sorting": 1
   }
 }
