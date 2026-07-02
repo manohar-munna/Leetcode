@@ -1,6 +1,6 @@
 {
   "leetcode": {
-    "easy": 1,
+    "easy": 2,
     "medium": 2,
     "hard": 0,
     "shas": {
@@ -10,7 +10,7 @@
         "0080-remove-duplicates-from-sorted-array-ii.java": "4c27ab93a3ed5c421acca0761d65f54b226334ac"
       },
       "README.md": {
-        "": "27c271872a70283ca49e0bbb7df6c25ee197a050"
+        "": "f1966179210baab3dfdb17161cb10b57ccbc7e18"
       },
       "1684-count-the-number-of-consistent-strings": {
         "difficulty": "easy",
@@ -21,18 +21,24 @@
         "difficulty": "medium",
         "README.md": "71cac1ec5d9d071eb0cddc0043449ecf2e3504b9",
         "3016-minimum-number-of-pushes-to-type-word-ii.java": "5720fbed456cf8a1d4c3aea0902d2068f32346ab"
+      },
+      "0171-excel-sheet-column-number": {
+        "difficulty": "easy",
+        "README.md": "b4b05ba74e811c93679e06b082760a987f1402fe",
+        "0171-excel-sheet-column-number.java": "70a31f4bde8fae68516cc1cbbd8e64ead906cdc0"
       }
     },
-    "solved": 3
+    "solved": 4
   },
   "topicCounts": {
     "Array": 2,
     "Two Pointers": 1,
     "Hash Table": 2,
-    "String": 2,
+    "String": 3,
     "Bit Manipulation": 1,
     "Counting": 2,
     "Greedy": 1,
-    "Sorting": 1
+    "Sorting": 1,
+    "Math": 1
   }
 }
